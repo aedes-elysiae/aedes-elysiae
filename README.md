@@ -1,6 +1,3 @@
 <p align="center">
-⊹﹒︵ ๑ ︵︵ ๑ ⊹﹒︵︵﹒⊹ ๑ ︵︵ ๑ ︵﹒⊹
-<p align="center">
-<img width="736" height="419" alt="Image" src="https://github.com/user-attachments/assets/289c57da-bcc8-4a0f-aabc-193a2892b85b" />
-<p align="center">
-<a href="https://kolan.atabook.org" target="_blank">sign ata!</a>
+<img width="736" height="419" alt="Image" src="https://github.com/user-attachments/assets/f0287ca8-955d-4e6d-9ad4-4dccdea7b0c4" />
+
