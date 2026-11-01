@@ -1,4 +1,4 @@
 <p align="center">
-<img img width="1310" height="705" alt="Image" src="https://github.com/user-attachments/assets/f39d3976-2be2-4985-8ab2-3526e42b40ee" />
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/c63f5bfb-dcd3-4024-9c86-c24910ab307d" />
 <p align="center">
 <a href="https://aeternion.atabook.org/" target="_blank"> sign ata ok </a> 
